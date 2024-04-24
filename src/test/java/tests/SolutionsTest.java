@@ -1,3 +1,8 @@
+/*На главной странице GitHub выберите меню Solutions -> Enterprize
+с помощью команды hover для Solutions. Убедитесь что загрузилась нужная страница
+(например что заголовок - "Build like the best."
+ */
+
 package tests;
 
 import com.codeborne.selenide.Configuration;
